@@ -1,0 +1,5 @@
+# Única dependencia de interfaz gráfica.
+customtkinter>=5.2.2,<7
+
+# Descargador. La aplicación lo actualiza automáticamente al iniciar.
+yt-dlp>=2025.1.15

@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+log.txt
+config.json
+*.mp4
+*.mp3
+*.exe
+build/
+dist/
